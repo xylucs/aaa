@@ -6,8 +6,8 @@ import re
 from datetime import datetime
 
 # Telegram Config
-TELEGRAM_BOT_TOKEN = '7421616304:AAHAxPtNgMQftV7YBPT2N9kOQ4QwZHyiFqQ'
-TELEGRAM_CHAT_ID = '5467092744'
+TELEGRAM_BOT_TOKEN = '  '
+TELEGRAM_CHAT_ID = '  '
 
 # Fungsi kirim notifikasi ke Telegram
 def send_telegram(message):
